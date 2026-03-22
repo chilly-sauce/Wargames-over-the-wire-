@@ -1,0 +1,4 @@
+here is a file named - which is problematic to open in Linux as it get treated as end of command 
+so we use cat < - to forefully read the file
+but better one may cat ./- as it tells shell to read - as file path
+pass-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
