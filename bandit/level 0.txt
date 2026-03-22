@@ -1,4 +1,0 @@
-level 0
-it wanted me to login into a remote device using ssh command specifically on port 2220
-
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
