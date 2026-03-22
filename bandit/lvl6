@@ -1,0 +1,5 @@
+pass in a file in inhere directory which is human-readable ,1033 bytes in size ,not executable
+here it want us to use find command find . -type f -size 1033c
+after doing this it returns a file which is hidden
+
+pass- HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
