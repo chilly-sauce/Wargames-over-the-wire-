@@ -1,0 +1,6 @@
+in this level pass is stored next to word millionth
+so in this we just use grep command
+grep "word" filename
+grep "millionth" data.txt 
+
+pass-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
