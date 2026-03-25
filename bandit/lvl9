@@ -1,0 +1,7 @@
+pass is stored in data.txt and pass only occurs once and all other lines more than once
+so first we have to sort this and get a sentence that only occurred once as if we dont sort uniq fxn only checks adjacent elements
+
+so we use sort "data.txt" | uniq -u
+uniq -u returns the element only occurred once
+
+pass-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
