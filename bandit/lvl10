@@ -1,0 +1,5 @@
+in this level it has a file which is majorly non human readable
+but has few human readable one so from those one is password 
+so we use strings command to get human readables 
+command- strings data.txt
+pass-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
