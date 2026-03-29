@@ -1,0 +1,5 @@
+here we have a file which is base64 encoded 
+looking like - VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg==
+so to decode it we use base64 command
+base64 -d data.txt
+pass- dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
