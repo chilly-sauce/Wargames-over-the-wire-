@@ -1,0 +1,4 @@
+in this level we got a file which is encrypted by 13 rotation
+so here we have to use tr command 
+echo [string] | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+pass-7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
